@@ -138,7 +138,11 @@ A core component of this project is the user interface, designed to bridge resea
 - Select/hide any of the 19 classes in results
 - Download segmented outputs
 
-**Add your screenshots here:**
+![gui pic](https://github.com/user-attachments/assets/ebcb599f-e385-449c-8227-9352f6129b14)
+
+![image](https://github.com/user-attachments/assets/4152c2c9-e5cf-46ba-b90c-ceffafb611fd)
+
+
 
 ```markdown
 ![Main Page](path/to/main_page.png)
