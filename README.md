@@ -142,7 +142,7 @@ A core component of this project is the user interface, designed to bridge resea
 
 
 
-                        ![image](https://github.com/user-attachments/assets/4152c2c9-e5cf-46ba-b90c-ceffafb611fd)
+![image](https://github.com/user-attachments/assets/4152c2c9-e5cf-46ba-b90c-ceffafb611fd)
 
 
 
