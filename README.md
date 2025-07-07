@@ -145,13 +145,6 @@ A core component of this project is the user interface, designed to bridge resea
 ![image](https://github.com/user-attachments/assets/4152c2c9-e5cf-46ba-b90c-ceffafb611fd)
 
 
-
-```markdown
-![Main Page](path/to/main_page.png)
-![Upload Section](path/to/upload_section.png)
-![Results](path/to/results_section.png)
-```
-
 ---
 
 ## Effectiveness and Critical Evaluation
