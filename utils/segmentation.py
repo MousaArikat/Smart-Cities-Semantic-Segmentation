@@ -9,7 +9,6 @@ from PIL import Image
 import json
 import os
 import cv2
-from moviepy.editor import ImageSequenceClip
 from models.seg_hrnet import HighResolutionNet
 from config import config as hrnet_config, update_config
 import argparse
