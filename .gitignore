@@ -1,0 +1,13 @@
+# Ignore model files
+model/*.pth
+model/*.pt
+
+# Ignore large files
+*.mp4
+*.zip
+*.tar
+*.h5
+
+# Ignore venv
+.venv/
+__pycache__/
